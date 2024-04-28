@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>c:\Users\ivanc\Documents\Atmel Studio\7.0\e1\e2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\Users\ivanc\Documents\Atmel Studio\7.0\e1\e2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\Users\ivanc\Documents\Atmel Studio\7.0\e1\e2\Debug\e2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>e2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>e2.map</FILE>
+  <FILE>e2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <positive><FILE>c:\Users\ivanc\Documents\Atmel Studio\7.0\e1\e2\main.asm</FILE><LINE>12</LINE></positive>
+  <negative><FILE>c:\Users\ivanc\Documents\Atmel Studio\7.0\e1\e2\main.asm</FILE><LINE>17</LINE></negative>
+  <end><FILE>c:\Users\ivanc\Documents\Atmel Studio\7.0\e1\e2\main.asm</FILE><LINE>22</LINE></end>
+ </LABELS>
+</ASSEMBLER_INFO>
